@@ -6,7 +6,7 @@ Uma página de login moderna e segura, projetada para proporcionar uma experiên
 - HTML5  
 - CSS3 (Flexbox & Grid)  
 - JavaScript (Validação de Formulário)  
-- Font Awesome (Ícones)  
+- Iconscout (Ícones)  
 
 ## 🎯 Funcionalidades  
 ✅ Design responsivo e otimizado para mobile  
