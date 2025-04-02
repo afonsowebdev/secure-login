@@ -2,20 +2,20 @@
 
 Uma página de login moderna e segura, projetada para proporcionar uma experiência de autenticação intuitiva e eficiente.
 
-## 📌 Tecnologias Utilizadas  
+## Tecnologias Utilizadas  
 - HTML5  
 - CSS3 (Flexbox & Grid)  
 - JavaScript (Validação de Formulário)  
 - Iconscout (Ícones)  
 
-## 🎯 Funcionalidades  
+## Funcionalidades  
 ✅ Design responsivo e otimizado para mobile  
 ✅ Formulário de login com validação em tempo real  
 ✅ Opção de login social (Google, Facebook)  
 ✅ Esqueci minha senha com recuperação de conta  
 ✅ Interface intuitiva e acessível  
 
-## 📷 Captura de Tela  
+## Captura de Tela  
 (Aqui você pode adicionar um screenshot da página)  
 
 ## 🚀 Como Executar o Projeto  
