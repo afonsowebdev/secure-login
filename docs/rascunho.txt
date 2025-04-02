@@ -1,0 +1,43 @@
+Cabeçalho (Header)
+Logotipo da plataforma
+
+Menu de navegação com links para Início, Login, Criar Conta, Suporte
+
+Alternância entre Modo Claro/Escuro (opcional)
+
+2️⃣ Seção Hero (Banner Principal)
+Ilustração moderna de segurança/login
+
+Um título chamativo como: "Acesse sua conta com segurança"
+
+Pequena descrição do sistema
+
+Botões de "Fazer Login" e "Criar Conta"
+
+3️⃣ Seção "Sobre o Sistema"
+Breve explicação sobre a plataforma
+
+Destaques como "100% seguro", "Login rápido e fácil"
+
+Ícones destacando segurança, privacidade e praticidade
+
+4️⃣ Seção "Login"
+Formulário de login com campos de E-mail e Senha
+
+Botão "Entrar"
+
+Opção "Esqueci minha senha"
+
+Login social (Google, Facebook)
+
+5️⃣ Seção "Criar Conta"
+Pequena descrição incentivando novos usuários a se cadastrarem
+
+Botão "Criar uma conta"
+
+6️⃣ Rodapé
+Links rápidos para Política de Privacidade, Termos de Uso, Suporte
+
+Redes sociais
+
+Aviso de direitos autorais
