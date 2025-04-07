@@ -25,10 +25,27 @@ html {
     --background-size-2: cover;
     --background-repeat-2: no-repeat;
 
+    --font-size: 16px;
+    --font-size-h1: 2.5rem;
+    --font-size-h2: 2rem;
+    --font-size-h3: 1.5rem;
+
+    --font-weight: 400;
+    --font-weight-h1: 700;
+    --font-weight-h2: 600;
+    --font-weight-h3: 500;
 }
 
 body {
-
+    background-image: var(--background-image);
+    background-position: var(--background-position);
+    background-size: var(--background-size);
+    background-repeat: var(--background-repeat);
+    background-color: var(--background-color);
+    height: 100vh;
+    width: 100%;
+    /* display: flex;
+    justify-content: center; */
 }
 
 a {
