@@ -22,7 +22,7 @@ html {
     --opacity: 0.8;
     --backdrop-filter: blur(10px);
 
-    --background-image-2: url(/image/image-hero.jpg);
+    --background-image-2: url(/image/image-hero.png);
     --background-position-2: center;
     --background-size-2: cover;
     --background-repeat-2: no-repeat;
@@ -36,6 +36,9 @@ html {
     --font-weight-h1: 700;
     --font-weight-h2: 600;
     --font-weight-h3: 500;
+
+    --primary-color: #000;
+    --secund-color: #fff;
 }
 
 body {
@@ -80,7 +83,7 @@ li {
 }
 
 .hero {
-    background-image: var(--background-image-2);
+    background-image: var(--background-image-);
     background-position: var(--background-position-2);
     background-size: var(--background-size-2);
     background-repeat: var(--background-repeat-2);
@@ -92,6 +95,20 @@ li {
     align-items: center;
 }
 
+.hero .hero-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.hero .hero-title {
+    font-size: var(--font-size-h1);
+    font-weight: var(--font-weight-h1);
+    color: #fff;
+    margin-bottom: 20px;
+}
 
 .login-form {
     display: flex;
