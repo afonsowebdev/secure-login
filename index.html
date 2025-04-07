@@ -12,6 +12,30 @@
     <title>Página de Login</title>
 </head>
 <body>
-    
+    <div class="container">
+        <section>
+            <div class="header">
+                <h1>Bem-vindo ao Sistema de Login</h1>
+                <p>Por favor, faça login para continuar.</p>
+            </div>
+        </section>
+        <section class="login-form">
+            <div class="form-container">
+                <h1 class="form-title">Login</h1>
+                <form action="login.php" method="POST">
+                    <div class="input-group">
+                        <label for="username">Username:</label>
+                        <input type="text" id="username" name="username" required>
+                    </div>
+                    <div class="input-group">
+                        <label for="password">Password:</label>
+                        <input type="password" id="password" name="password" required>
+                    </div>
+                    <button type="submit">Login</button>
+                </form>
+            </div>
+        </section>
+
+    </div>
 </body>
 </html>
